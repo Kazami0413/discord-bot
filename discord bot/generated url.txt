@@ -1,3 +1,0 @@
-https://discord.com/oauth2/authorize?client_id=1297873081146150963&permissions=8&integration_type=0&scope=bot
-
-Public Key:7f606150fe8cee7df8ba6beeda4c62615a832f289aae30a734f1d69af402c94c
