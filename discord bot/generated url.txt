@@ -1,1 +1,3 @@
 https://discord.com/oauth2/authorize?client_id=1297873081146150963&permissions=8&integration_type=0&scope=bot
+
+https://www.instagram.com/reel/DBQJ4oPvJe6/?igsh=MXFwZTdxeHo1bDd4aA==
